@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/xgames/static/css/main.bfa2ead7.css",
+    "main.js": "/xgames/static/js/main.1654eb63.js",
+    "index.html": "/xgames/index.html",
+    "main.bfa2ead7.css.map": "/xgames/static/css/main.bfa2ead7.css.map",
+    "main.1654eb63.js.map": "/xgames/static/js/main.1654eb63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfa2ead7.css",
+    "static/js/main.1654eb63.js"
+  ]
+}
